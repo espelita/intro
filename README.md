@@ -1,2 +1,2 @@
-# intro
+# akin to
 intro ko
