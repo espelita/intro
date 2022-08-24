@@ -1,2 +1,2 @@
-# akin to
-intro ko
+# espelita
+ intro po
